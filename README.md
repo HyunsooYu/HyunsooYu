@@ -3,7 +3,7 @@
 **HyunsooYu/HyunsooYu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 
-### 🔭 Carrer
+### 🔭 Career
  * Received the B.S. degrees in Department of Robotics from Kwangwoon University, in 2020.
  * Since 2020, Joined the BCML. Seoul, Korea, as **Master Candidate** of Kwangwoon University.
 
