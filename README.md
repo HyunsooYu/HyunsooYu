@@ -11,7 +11,7 @@
  * [Yu, H.; Shin, O.-S.; Kim, S.; Park, C. Effect of an Inflatable Air Mattress with Variable Rigidity on Sleep Quality. Sensors 2020, 20, 5317.](https://www.mdpi.com/1424-8220/20/18/5317)
  
 ### ☕ Conference
- * Hyunsoo Yu, Seungwoo Han, Cheolsoo Park. "Convolutional Neural Network Model Optimization for Single Channel Sleep Electroencephalogram Analysis", Summer Annual Conference of IEIE, Aug. 2020, Jeju
+ * [Hyunsoo Yu, Seungwoo Han, Cheolsoo Park. "Convolutional Neural Network Model Optimization for Single Channel Sleep Electroencephalogram Analysis", Summer Annual Conference of IEIE, Aug. 2020, Jeju](http://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE10448123)
  * Sayup Kim, Jongryun Roh, Hyunsoo Yu, Cheolsoo Park. "Comparison of Sleep Quality according to Swing Trajectories of the Reclining Mechanism", Autumn Conference Ergonomics Society of Korea, Oct, 2020, Jeju
 
 ### 🔬 Experience
