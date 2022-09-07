@@ -35,6 +35,6 @@
 ### 🔬 Experience
  * Sleep experiment to evaluate sleep quality on an inflatable air mattress with variable rigidity. Oct~Sep, 2019, Seoul National Univ.
  * Nap experiment to evaluate sleep quality on recliner with rocking mechanism. Feb~Mar, 2020, Kwangwoon Univ.
- * Massage chair experiment to evaluate improvement of cognitive, attentional, and arithmetical ability. Jan~ , 2021, Kwangwoon Univ.
+ * Massage chair experiment to evaluate improvement of cognitive, attentional, and arithmetical ability. Jan~Sep , 2021, Kwangwoon Univ.
  
 # Ongoing
