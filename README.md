@@ -4,9 +4,10 @@
 -->
 
 ### 🔭 Career
+ 
+ * Associate in DE Task, LG innotek
+ * Received the M.S, degrees in Computer engineering from Kwangwoon University, in 2022.
  * Received the B.S. degrees in Department of Robotics from Kwangwoon University, in 2020.
- * Since 2020, Joined the BCML. Seoul, Korea, as **Master Candidate** of Kwangwoon University.
-
 ### 📄 Journal
 
 #### 2022
