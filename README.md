@@ -11,6 +11,9 @@
  * Received the B.S. degrees in Department of Robotics from Kwangwoon University, in 2020.
 ### 📄 Journal
 
+#### 2024
+ * [H. Yu, S. Baek, J. Lee, I. Sohn, B. Hwang and C. Park, "Deep Neural Network-based Empirical Mode Decomposition for Motor Imagery EEG Classification," in IEEE Transactions on Neural Systems and Rehabilitation Engineering, doi: 10.1109/TNSRE.2024.3432102.](https://ieeexplore.ieee.org/document/10606308) (Impact factor : 4.9)
+
 #### 2022
  * [Baek, J., Lee, C., Yu, H., Baek, S., Lee, S., Leec, S. and Park, C. (2022). Automatic Sleep Scoring Using Intrinsic Mode based on Interpretable Deep Neural Networks. IEEE Access, pp.1–1.](https://ieeexplore.ieee.org/abstract/document/9745092/authors#authors) (Impact Factor : 3.367)
  * [Suwhan Baek, Jeawoo Baek, Hyunsoo Yu, Chungseop Lee, Cheolsoo Park.(2022).Explainable Sleep Staging Algorithm using a Single-channel Electroencephalogram.IEIE Transactions on Smart Processing & Computing,11(1),8-13.](https://www.dbpia.co.kr/Journal/articleDetail?nodeId=NODE11036635) (Impact Factor : 0.83)
