@@ -5,10 +5,11 @@
 
 ### 🔭 Career
 
- * Specialist in Optic Solution DX Development Task, LG innotek (2024~)
- * Associate in DE Task, LG innotek (2022~2023)
- * Received the M.S, degrees in Computer engineering from Kwangwoon University, in 2022.
- * Received the B.S. degrees in Department of Robotics from Kwangwoon University, in 2020.
+ * Specialist, AX(AI Transformation) Development Task, Optic Solution Laboratory, LG innotek (2025)
+ * Specialist, Optic Solution DX Development Task, Optic Solution Development, LG innotek (2024)
+ * Associate, DE Task, Optic Solution Development Division, LG innotek (2022~2023)
+ * M.S. in Computer engineering, Kwangwoon University (2022)
+ * B.S. in Robotics, Kwangwoon University (2020)
 ### 📄 Journal
 
 #### 2024
