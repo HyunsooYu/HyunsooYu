@@ -4,8 +4,8 @@
 -->
 
 ### 🔭 Career
-
- * Specialist, AX(AI Transformation) Development Task, Optic Solution Laboratory, LG innotek (2025)
+ * Specialist, AD(Autonomous Driving) System Development Team, CTO, LG Innotek (2026)
+ * Specialist, AX(AI Transformation) Development Task, Optic Solution Laboratory, LG Innotek (2025)
  * Specialist, Optic Solution DX(Digital Transformation) Development Task, Optic Solution Development, LG innotek (2024)
  * Associate, DE(Digital Engineering) Task, Optic Solution Development Division, LG innotek (2022~2023)
  * M.S. in Computer engineering, Kwangwoon University (2022)
